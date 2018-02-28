@@ -234,10 +234,10 @@ hr.small {
     color: #000;
     font-family: 'Comfortaa', cursive;
     background: url(../img/location_logo.png) no-repeat center center scroll;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+    -webkit-background-size: 300px 300px;
+    -moz-background-size: 300px 300px;
+    background-size: 300px 300px;
+    -o-background-size: 300px 300px;
 }
 
 .text-dark {
