@@ -31,7 +31,7 @@ body {
     text-align: center;
     vertical-align: middle;
     color: black;
-    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-fill-color: yellow; /* Will override color (regardless of order) */
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
     font-family: 'Comfortaa', cursive;
@@ -48,14 +48,14 @@ body {
 
 .btn-dark {
     border-radius: 4;
-    color: #fff;
+    color: yellow;
     background-color: rgba(0,0,0,0.4);
 }
 
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
-    color: #fff;
+    color: yellow;
     background-color: rgba(0,0,0,0.7);
 }
 
