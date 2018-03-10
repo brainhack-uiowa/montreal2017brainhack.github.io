@@ -49,6 +49,7 @@ body {
 .btn-dark {
     border-radius: 4;
     color: yellow;
+    -webkit-text-fill-color: yellow; /* Will override color (regardless of order) */
     background-color: rgba(0,0,0,0.4);
 }
 
